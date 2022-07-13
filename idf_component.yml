@@ -1,0 +1,9 @@
+version: "0.0.3"
+description: Espressif's display and touchscreen drivers for LVGL 8
+url: https://github.com/valeriojr/lvgl8_esp32_drivers
+
+dependencies:
+  idf: ">=4.1"
+  lvgl/lvgl:
+    version: ">=8.0"
+    public: true
